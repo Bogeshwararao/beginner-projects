@@ -23,6 +23,8 @@ by getting your hands dirty with code. The Projects are divided into multiple le
 
 - Develop a Login and Signup User-Interface.
 
+-Develop a product landing form
+
 - Develop a BMI(Body Mass Index) Calculator given a person's Weight and Height.
 
 - Develop a CGPA(Cumulative Grade Points Average) Calculator which can calculate a Person's CGPA given their Marks in respective subject and credits associated with it.
